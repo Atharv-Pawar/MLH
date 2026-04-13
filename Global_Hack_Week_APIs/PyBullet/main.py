@@ -1,0 +1,1 @@
+print("Global Hack Wek APIs")
